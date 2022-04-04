@@ -1,0 +1,2 @@
+# sample-getx
+learn getX
